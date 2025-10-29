@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XOX",
+    "XXX"
+  ],
+  "key": {
+    "X": { "item": "minecraft:leather" },
+    "O": { "item": "minecraft:chest" }
+  },
+  "result": {
+    "item": "backpacks:leather_backpack"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "body": "backpacks:block/diamond_backpack",
+    "strap": "backpacks:block/diamond_backpack_strap",
+    "particle": "backpacks:block/diamond_backpack"
+  },
+  "elements": [
+    {
+      "from": [3, 0, 4],
+      "to": [13, 12, 12],
+      "faces": {
+        "north": {"texture": "#body"},
+        "south": {"texture": "#body"},
+        "east": {"texture": "#body"},
+        "west": {"texture": "#body"},
+        "up": {"texture": "#body"},
+        "down": {"texture": "#body"}
+      }
+    },
+    {
+      "from": [6, 2, 2],
+      "to": [10, 10, 4],
+      "faces": {
+        "north": {"texture": "#strap"},
+        "south": {"texture": "#strap"},
+        "east": {"texture": "#strap"},
+        "west": {"texture": "#strap"},
+        "up": {"texture": "#strap"},
+        "down": {"texture": "#strap"}
+      }
+    }
+  ]
+}

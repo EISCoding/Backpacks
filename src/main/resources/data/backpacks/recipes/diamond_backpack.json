@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["XXX","XOX","XXX"],
+  "key": {
+    "X": { "item": "minecraft:diamond" },
+    "O": { "item": "backpacks:gold_backpack" }
+  },
+  "result": { "item": "backpacks:diamond_backpack" }
+}

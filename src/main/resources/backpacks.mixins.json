@@ -2,9 +2,9 @@
 	"required": true,
 	"package": "de.eiscoding.mixin",
 	"compatibilityLevel": "JAVA_21",
-	"mixins": [
-		"ExampleMixin"
-	],
+        "mixins": [
+
+        ],
 	"injectors": {
 		"defaultRequire": 1
 	},

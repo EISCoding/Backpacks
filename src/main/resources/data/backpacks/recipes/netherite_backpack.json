@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["XXX","XOX","XXX"],
+  "key": {
+    "X": { "item": "minecraft:netherite_ingot" },
+    "O": { "item": "backpacks:diamond_backpack" }
+  },
+  "result": { "item": "backpacks:netherite_backpack" }
+}

@@ -1,0 +1,22 @@
+{
+  "item.backpacks.leather_backpack": "Leather Backpack",
+  "item.backpacks.copper_backpack": "Copper Backpack",
+  "item.backpacks.iron_backpack": "Iron Backpack",
+  "item.backpacks.gold_backpack": "Gold Backpack",
+  "item.backpacks.diamond_backpack": "Diamond Backpack",
+  "item.backpacks.netherite_backpack": "Netherite Backpack",
+  "block.backpacks.leather_backpack_block": "Leather Backpack",
+  "block.backpacks.copper_backpack_block": "Copper Backpack",
+  "block.backpacks.iron_backpack_block": "Iron Backpack",
+  "block.backpacks.gold_backpack_block": "Gold Backpack",
+  "block.backpacks.diamond_backpack_block": "Diamond Backpack",
+  "block.backpacks.netherite_backpack_block": "Netherite Backpack",
+  "container.backpacks.leather": "Leather Backpack",
+  "container.backpacks.copper": "Copper Backpack",
+  "container.backpacks.iron": "Iron Backpack",
+  "container.backpacks.gold": "Gold Backpack",
+  "container.backpacks.diamond": "Diamond Backpack",
+  "container.backpacks.netherite": "Netherite Backpack",
+  "tooltip.backpacks.open": "Right-click to open",
+  "tooltip.backpacks.place": "Sneak + Right-click to place or pick up"
+}

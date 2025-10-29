@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "backpacks:block/copper_backpack" },
+    "facing=south": { "model": "backpacks:block/copper_backpack", "y": 180 },
+    "facing=west": { "model": "backpacks:block/copper_backpack", "y": 270 },
+    "facing=east": { "model": "backpacks:block/copper_backpack", "y": 90 }
+  }
+}

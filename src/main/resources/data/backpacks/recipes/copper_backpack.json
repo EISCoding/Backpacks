@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["XXX","XOX","XXX"],
+  "key": {
+    "X": { "item": "minecraft:copper_ingot" },
+    "O": { "item": "backpacks:leather_backpack" }
+  },
+  "result": { "item": "backpacks:copper_backpack" }
+}

@@ -2,9 +2,9 @@
 	"required": true,
 	"package": "de.eiscoding.mixin.client",
 	"compatibilityLevel": "JAVA_21",
-	"client": [
-		"ExampleClientMixin"
-	],
+        "client": [
+
+        ],
 	"injectors": {
 		"defaultRequire": 1
 	}
